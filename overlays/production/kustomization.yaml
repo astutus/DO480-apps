@@ -4,4 +4,4 @@ bases:
 namePrefix: prod-
 images: 
   - name: registry.redhat.io/rhel8/mysql-80
-    newTag: 1-154
+    newTag: 1-156
